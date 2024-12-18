@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/goviop9026" target="blank"><img src="https://img.shields.io/twitter/follow/goviop9026?logo=twitter&style=for-the-badge" alt="goviop9026" /></a> </p>
 
-- 🔭 I’m currently working on [Study Notion](https://studynotion-frontend.vercel.app/)
+- 🔭 I’m currently working on RideIt
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning to deal with Life
 
-- 👯 I’m looking to collaborate on **Front-End Projects**
+- 👯 I’m looking to collaborate on **Front-End Projects** & **Back-End Projects**
 
 - 🤝 I’m looking for help with **Backend**
 
