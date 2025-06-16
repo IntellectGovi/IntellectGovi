@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/goviop9026" target="blank"><img src="https://img.shields.io/twitter/follow/goviop9026?logo=twitter&style=for-the-badge" alt="goviop9026" /></a> </p>
 
-- 🔭 I’m currently working on RideIt
-
-- 🌱 I’m currently learning to deal with Life
+- 🔭 I’m currently working on HIMS(Hospital Information Managment System)
 
 - 👯 I’m looking to collaborate on **Front-End Projects** & **Back-End Projects**
 
@@ -15,13 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://intellectgovi.github.io/Personal-Portfolio-Website/](https://intellectgovi.github.io/Personal-Portfolio-Website/)
 
-- 📝 I regularly write articles on [Medium and X](Medium and X)
-
 - 💬 Ask me about **Animation , Tech and ReactJs**
 
-- 📫 How to reach me **gUpadhyay.career@gmail.com**
+- 📫 How to reach me **govind.upadhayay19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AVAyRp6qvANgE3T1PgYjQN36ua1JZ3Pr/view?usp=sharing](https://drive.google.com/file/d/1AVAyRp6qvANgE3T1PgYjQN36ua1JZ3Pr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AVAyRp6qvANgE3T1PgYjQN36ua1JZ3Pr/view?usp=sharing](https://drive.google.com/file/d/1AVAyRp6qvANgE3T1PgYjQN36ua1JZ3Pr/view?usp=sharing](https://drive.google.com/file/d/1_2We4lhyHlnXPIYlW-60eA4JMGypBdcU/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
